@@ -1,0 +1,6 @@
+Image credits for Rehan Massage Center preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/6724313/ | free-licence stock (per teammate images_log.tsv)
+img/v2/side.webp [stock] https://www.pexels.com/photo/6724318/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g1.webp [stock] https://www.pexels.com/photo/19167421/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g2.webp [stock] https://www.pexels.com/photo/208501/ | free-licence stock (per teammate images_log.tsv)

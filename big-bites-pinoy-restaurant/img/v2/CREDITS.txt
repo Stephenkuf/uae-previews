@@ -1,0 +1,6 @@
+Image credits for Big Bites Pinoy Restaurant preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/1435897/ | free-licence stock (per teammate images_log.tsv)
+img/v2/c1.webp [stock] https://www.pexels.com/photo/13046454/ | free-licence stock (per teammate images_log.tsv)
+img/v2/c2.webp [stock] https://www.pexels.com/photo/1435894/ | free-licence stock (per teammate images_log.tsv)
+img/v2/c3.webp [stock] https://www.pexels.com/photo/1435895/ | free-licence stock (per teammate images_log.tsv)

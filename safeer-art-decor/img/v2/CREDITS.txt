@@ -1,0 +1,6 @@
+Image credits for Safeer Art Decor preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/19899070/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w1.webp [stock] https://www.pexels.com/photo/19899071/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w2.webp [stock] https://www.pexels.com/photo/19899074/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w3.webp [stock] https://www.pexels.com/photo/12277012/ | free-licence stock (per teammate images_log.tsv)

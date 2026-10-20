@@ -1,0 +1,6 @@
+Image credits for E9 Auto Accessories preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/14231668/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s1.webp [stock] https://www.pexels.com/photo/6873006/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/6873008/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/6873010/ | free-licence stock (per teammate images_log.tsv)

@@ -1,0 +1,5 @@
+Image credits for MSK preview page
+
+img/hero.webp [real] https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q7_zoLJgCwE6lYoocGluX3DJkPBw8JhpAm7z-jUQAO0_pK3ojmreK2WC7AsjCugC6ktgG5EB4o5vOusOMhuUd2Yq0ThTX_vp1mx0Y0ST3M1vKUiTMbIbyfOnmvW4dVUalN8qFc | photo from the business's public Google Maps listing (https://maps.google.com/?cid=2605702762422564233)
+img/s1.webp [stock] https://stocksnap.io/photo/car-interior-HDOKLRJ2PI | Car Interior | Mike Birdy | CC0 1.0 | via Openverse (stocksnap)
+img/s2.webp [stock] https://www.rawpixel.com/image/5926994/photo-image-lights-public-domain-interior | Free close car interior image | unknown | CC0 1.0 | via Openverse (rawpixel)

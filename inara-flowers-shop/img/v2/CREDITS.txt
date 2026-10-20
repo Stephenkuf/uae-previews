@@ -1,0 +1,6 @@
+Image credits for Inara flowers shop preview page
+
+img/v2/h1.webp [real] https://images.bestthings.ae/original/inara-flowers-shop-mhl-wrwd-nr-434702.webp | business public listing/website
+img/v2/h2.webp [stock] https://www.pexels.com/photo/15290976/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/31583568/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/34776286/ | free-licence stock (per teammate images_log.tsv)

@@ -1,0 +1,6 @@
+Image credits for GT86 rent car preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/33383051/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s1.webp [stock] https://www.pexels.com/photo/7808343/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/7808346/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/15160377/ | free-licence stock (per teammate images_log.tsv)

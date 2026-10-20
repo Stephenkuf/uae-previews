@@ -1,0 +1,6 @@
+Image credits for Nenawa Bakery preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/7965915/ | free-licence stock (per teammate images_log.tsv)
+img/v2/c1.webp [stock] https://www.pexels.com/photo/7965916/ | free-licence stock (per teammate images_log.tsv)
+img/v2/c2.webp [stock] https://www.pexels.com/photo/7965917/ | free-licence stock (per teammate images_log.tsv)
+img/v2/c3.webp [stock] https://www.pexels.com/photo/7965918/ | free-licence stock (per teammate images_log.tsv)

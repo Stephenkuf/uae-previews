@@ -1,0 +1,6 @@
+Image credits for Top Control Pest Control preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/19789837/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w1.webp [stock] https://www.pexels.com/photo/19789838/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w2.webp [stock] https://www.pexels.com/photo/19789839/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w3.webp [stock] https://www.pexels.com/photo/19789840/ | free-licence stock (per teammate images_log.tsv)

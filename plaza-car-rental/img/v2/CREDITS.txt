@@ -1,0 +1,6 @@
+Image credits for Plaza Car Rental preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/2149903/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s1.webp [stock] https://www.pexels.com/photo/33383056/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/33383058/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/11498777/ | free-licence stock (per teammate images_log.tsv)

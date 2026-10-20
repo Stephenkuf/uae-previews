@@ -1,0 +1,6 @@
+Image credits for Brilliant Automobile Workshop preview page
+
+img/v2/hero.webp [real] https://images.bestthings.ae/original/brilliant-automobile-workshop-pinoy-mekanico-1642011.webp | business public listing/website
+img/v2/s1.webp [stock] https://www.pexels.com/photo/8986040/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/8985451/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/8985452/ | free-licence stock (per teammate images_log.tsv)

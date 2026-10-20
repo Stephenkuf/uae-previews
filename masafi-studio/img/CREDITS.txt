@@ -1,0 +1,5 @@
+Image credits for Masafi Studio preview page
+
+img/h1.webp [real] https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QlGYrrOTiQmU3uMKRHEatjSZSueFDl7IYHbOLqSyAMaspTUrflONOKncl-gExThnVccaaQESsgpk2wAGu3F5KUYx8ji3WUn-tpLL6chveziRLqx7rb0jzo5k7meM_TNviWOG-P2A | photo from the business's public Google Maps listing (https://maps.google.com/?cid=11014556641500678308)
+img/h2.webp [stock] https://stocksnap.io/photo/camera-lens-8LC5H9IZIU | Camera Lens | Dustin Lee | CC0 1.0 | via Openverse (stocksnap)
+img/h3.webp [stock] https://stocksnap.io/photo/camera-lens-969AHYVSCT | Camera Lens | Maciej Szlachta | CC0 1.0 | via Openverse (stocksnap)

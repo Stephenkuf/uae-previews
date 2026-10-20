@@ -1,0 +1,6 @@
+Image credits for AK Auto Multibrand Car Service Center preview page
+
+img/v2/hero.webp [real] https://images.bestthings.ae/original/mrkz-y-ky-lkhdm-jmy-nw-lsyrt-ak-auto-multibrand-car-service-center-1626603.webp | business public listing/website
+img/v2/s1.webp [real] https://images.bestthings.ae/original/mrkz-y-ky-lkhdm-jmy-nw-lsyrt-ak-auto-multibrand-car-service-center-1626602.webp | business public listing/website
+img/v2/s2.webp [real] https://images.bestthings.ae/original/mrkz-y-ky-lkhdm-jmy-nw-lsyrt-ak-auto-multibrand-car-service-center-1626604.webp | business public listing/website
+img/v2/s3.webp [stock] https://www.pexels.com/photo/8985456/ | free-licence stock (per teammate images_log.tsv)

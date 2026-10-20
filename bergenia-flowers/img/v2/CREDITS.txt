@@ -1,0 +1,6 @@
+Image credits for Bergenia Flower and Chocolate preview page
+
+img/v2/h1.webp [stock] https://www.pexels.com/photo/15290971/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h2.webp [stock] https://www.pexels.com/photo/15290973/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/15290976/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/30690508/ | free-licence stock (per teammate images_log.tsv)

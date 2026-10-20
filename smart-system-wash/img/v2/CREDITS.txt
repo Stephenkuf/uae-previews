@@ -1,0 +1,6 @@
+Image credits for Smart System Car Wash preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/14231668/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s1.webp [stock] https://www.pexels.com/photo/14615258/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/14615259/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/14615264/ | free-licence stock (per teammate images_log.tsv)

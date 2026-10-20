@@ -1,0 +1,6 @@
+Image credits for Rising Fashion LLC preview page
+
+img/v2/h1.webp [stock] https://www.pexels.com/photo/37884304/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h2.webp [stock] https://www.pexels.com/photo/37884302/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/7641315/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/7641303/ | free-licence stock (per teammate images_log.tsv)

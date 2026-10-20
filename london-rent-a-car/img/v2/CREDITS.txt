@@ -1,0 +1,6 @@
+Image credits for London Rent A Car preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/29104550/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s1.webp [stock] https://www.pexels.com/photo/11498778/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/2149903/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/1201673/ | free-licence stock (per teammate images_log.tsv)

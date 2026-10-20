@@ -1,0 +1,6 @@
+Image credits for AE Beauty Salon LLC preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/36328525/ | free-licence stock (per teammate images_log.tsv)
+img/v2/side.webp [stock] https://www.pexels.com/photo/36328527/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g1.webp [stock] https://www.pexels.com/photo/17870160/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g2.webp [stock] https://www.pexels.com/photo/17870165/ | free-licence stock (per teammate images_log.tsv)

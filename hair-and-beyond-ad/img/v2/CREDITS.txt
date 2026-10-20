@@ -1,0 +1,6 @@
+Image credits for Hair & Beyond preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/9456811/ | free-licence stock (per teammate images_log.tsv)
+img/v2/side.webp [stock] https://www.pexels.com/photo/13138478/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g1.webp [stock] https://www.pexels.com/photo/37764947/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g2.webp [stock] https://www.pexels.com/photo/15642778/ | free-licence stock (per teammate images_log.tsv)

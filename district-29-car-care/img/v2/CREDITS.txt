@@ -1,0 +1,6 @@
+Image credits for District 29 Car Care Studio preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/6873010/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s1.webp [stock] https://www.pexels.com/photo/6873016/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/30564611/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/30564616/ | free-licence stock (per teammate images_log.tsv)

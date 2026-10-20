@@ -3,137 +3,48 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Beach Public Gym — Gym / Fitness · Umm Al Quwain (Preview)</title>
-<meta name="description" content="Beach Public Gym: Gym / Fitness in Umm Al Quwain. Message on WhatsApp.">
+<title>Beach Public Gym — Gym &amp; Fitness · Umm Al Quwain (Preview)</title>
+<meta name="description" content="Beach Public Gym: gym &amp; fitness in Umm Al Quwain. Message us on WhatsApp or call.">
 <meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Noto+Kufi+Arabic:wght@500&family=Anton&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#0e0c0c;--fg:#f5efee;--acc:#ef5b4c;--acc2:#ffa597;--card:#1a1515;--muted:color-mix(in srgb,var(--fg) 68%,transparent);--line:rgba(255,255,255,.09)}
-*{box-sizing:border-box;margin:0;padding:0}
-html{scroll-behavior:smooth}
-body{background:var(--bg);color:var(--fg);font-family:"Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.6;-webkit-font-smoothing:antialiased}
-a{color:inherit;text-decoration:none}
-.wrap{max-width:1140px;margin:0 auto;padding:0 20px}
-.serif{font-family:Georgia,"Times New Roman",serif;font-weight:400;letter-spacing:-.01em}
-nav{position:sticky;top:0;z-index:10;backdrop-filter:blur(12px);background:color-mix(in srgb,var(--bg) 80%,transparent);border-bottom:1px solid var(--line)}
-nav .wrap{display:flex;align-items:center;justify-content:space-between;height:64px}
-.logo{font-size:1.25rem}.logo b{color:var(--acc);font-weight:600}
-.links{display:flex;gap:28px;font-size:.92rem;color:var(--muted)}
-.links a:hover{color:var(--fg)}
-.btn{display:inline-flex;align-items:center;gap:10px;padding:14px 24px;border-radius:999px;font-weight:600;font-size:.98rem;transition:transform .15s,box-shadow .15s}
-.btn:hover{transform:translateY(-2px)}
-.btn-wa{background:var(--acc);color:#111;box-shadow:0 10px 30px -10px var(--acc)}
-.btn-ghost{border:1px solid var(--line);background:color-mix(in srgb,var(--fg) 4%,transparent)}
-.btn svg{width:20px;height:20px}
-.nav-cta{padding:10px 18px;font-size:.88rem}
-header.hero{background:radial-gradient(1200px 600px at 80% -10%, color-mix(in srgb,var(--acc) 35%,transparent), transparent 60%), radial-gradient(800px 500px at -10% 110%, color-mix(in srgb,var(--acc2) 18%,transparent), transparent 60%), linear-gradient(160deg,color-mix(in srgb,var(--acc) 8%,var(--bg)),var(--bg));padding:96px 0 88px;position:relative;overflow:hidden}
-.eyebrow{display:inline-flex;gap:10px;align-items:center;font-size:.8rem;letter-spacing:.18em;text-transform:uppercase;color:var(--acc)}
-.eyebrow .ar{letter-spacing:0;font-size:.95rem;opacity:.85}
-h1{font-size:clamp(2.3rem,5.6vw,4.2rem);line-height:1.08;margin:18px 0 20px;max-width:15ch}
-.lead{font-size:1.12rem;color:var(--muted);max-width:56ch}
-.ctas{display:flex;flex-wrap:wrap;gap:14px;margin-top:34px}
-.chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:38px}
-.chip{font-size:.82rem;padding:7px 14px;border:1px solid var(--line);border-radius:999px;color:var(--muted)}
-section{padding:84px 0}
-.sh{display:flex;justify-content:space-between;align-items:end;gap:20px;margin-bottom:38px;flex-wrap:wrap}
-.sh h2{font-size:clamp(1.8rem,3.6vw,2.6rem);line-height:1.15}
-.sh p{color:var(--muted);max-width:44ch}
-.kicker{font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;color:var(--acc);margin-bottom:10px}
-.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:28px;transition:border-color .2s}
-.card:hover{border-color:var(--acc)}
-.ico{font-family:Georgia,serif;color:var(--acc);font-size:1.05rem;margin-bottom:18px;opacity:.9}
-.card h3,.why h3{font-size:1.12rem;margin-bottom:6px}
-.card p,.why p{color:var(--muted);font-size:.95rem}
-.alt{background:color-mix(in srgb,var(--acc) 6%,var(--bg));border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-.whys{display:grid;grid-template-columns:repeat(4,1fr);gap:28px}
-.why{border-top:2px solid var(--acc);padding-top:18px}
-.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;counter-reset:s}
-.step{padding:28px;border-radius:20px;border:1px solid var(--line);position:relative}
-.step:before{counter-increment:s;content:counter(s);display:grid;place-items:center;width:40px;height:40px;border-radius:50%;background:var(--acc);color:#111;font-weight:700;margin-bottom:16px}
-.step p{color:var(--muted);font-size:.95rem}
-.loc{display:grid;grid-template-columns:1.1fr 1fr;gap:24px;align-items:stretch}
-.map{border-radius:20px;min-height:280px;border:1px solid var(--line);background:
- repeating-linear-gradient(0deg,transparent 0 38px,var(--line) 38px 39px),repeating-linear-gradient(90deg,transparent 0 38px,var(--line) 38px 39px),
- radial-gradient(400px 260px at 55% 50%,color-mix(in srgb,var(--acc) 30%,transparent),transparent 70%),var(--card);display:grid;place-items:center;text-align:center;padding:24px}
-.pin{width:18px;height:18px;border-radius:50% 50% 50% 0;background:var(--acc);transform:rotate(-45deg);margin:0 auto 14px;box-shadow:0 0 0 8px color-mix(in srgb,var(--acc) 25%,transparent)}
-.contact{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:30px;display:flex;flex-direction:column;gap:16px}
-.row{display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid var(--line);padding-bottom:12px;font-size:.96rem;flex-wrap:wrap}
-.row span:first-child{color:var(--muted)}
-.row a{color:var(--acc);word-break:break-all}
-.cta-band{text-align:center;padding:80px 0;background:radial-gradient(1200px 600px at 80% -10%, color-mix(in srgb,var(--acc) 35%,transparent), transparent 60%), radial-gradient(800px 500px at -10% 110%, color-mix(in srgb,var(--acc2) 18%,transparent), transparent 60%), linear-gradient(160deg,color-mix(in srgb,var(--acc) 8%,var(--bg)),var(--bg))}
-.cta-band h2{font-size:clamp(1.8rem,4vw,2.8rem);margin-bottom:12px}
-.cta-band p{color:var(--muted);margin-bottom:28px}
-.cta-band .ctas{justify-content:center}
-footer{padding:34px 0 110px;border-top:1px solid var(--line);font-size:.85rem;color:var(--muted)}
-footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
-.note{font-style:italic}
-.fab{position:fixed;right:18px;bottom:18px;z-index:20;width:58px;height:58px;border-radius:50%;background:#25D366;display:grid;place-items:center;box-shadow:0 10px 30px -6px rgba(0,0,0,.45)}
-.fab svg{width:30px;height:30px;fill:#fff}
-.mbar{display:none}
-@media (max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}.whys{grid-template-columns:repeat(2,1fr)}.loc{grid-template-columns:1fr}}
-@media (max-width:640px){
- .links{display:none}.nav-cta{display:none}
- header.hero{padding:64px 0 56px}
- section{padding:60px 0}
- .grid,.whys,.steps{grid-template-columns:1fr}
- .ctas .btn{flex:1 1 100%;justify-content:center}
- .fab{display:none}
- .mbar{display:grid;grid-template-columns:1fr 1fr;gap:10px;position:fixed;left:0;right:0;bottom:0;z-index:20;padding:10px 14px calc(10px + env(safe-area-inset-bottom));background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(10px);border-top:1px solid var(--line)}
- .mbar a{justify-content:center;padding:13px 10px;font-size:.92rem}
-}
-</style>
+:root{--bg:#0e0f10;--soft:#17191b;--ink:#f2f4f0;--mute:#a1a8a3;--acc:#c6f432;--acc2:#7f9e1f;--card:#16181a}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}body{background:var(--bg);color:var(--ink);font-family:"Manrope",system-ui,sans-serif;line-height:1.65}
+a{color:inherit;text-decoration:none}img{max-width:100%;height:auto;display:block}.h{font-family:"Anton",Impact,sans-serif;font-weight:400;text-transform:uppercase;letter-spacing:.01em}.ar{font-family:"Noto Kufi Arabic","Noto Sans Arabic",sans-serif;text-transform:none}
+.wrap{max-width:1160px;margin:0 auto;padding:0 22px}
+nav .wrap{display:flex;justify-content:space-between;align-items:center;height:76px}.logo{font-size:1.35rem}.logo:before{content:"";display:inline-block;width:12px;height:12px;border-radius:50%;background:var(--acc);margin-right:10px}
+.b{display:inline-flex;align-items:center;gap:9px;padding:14px 24px;border-radius:999px;font-weight:700;transition:.2s}.b svg{width:18px;height:18px}.b1{background:var(--acc);color:#0e0f10}.b1:hover{filter:brightness(.95)}.b2{border:1.5px solid color-mix(in srgb,var(--ink) 25%,transparent)}
+.hero{text-align:center;padding:40px 0 0}.ey{color:var(--acc);font-weight:700;font-size:.8rem;letter-spacing:.18em;text-transform:uppercase}
+.hero h1{font-size:clamp(2.6rem,6vw,5.4rem);line-height:1.02;margin:14px auto 10px;max-width:16ch}.hero h1 em{color:var(--acc);font-style:normal}
+.hero .ar{font-size:1.25rem;color:var(--acc2)}.hero p{color:var(--mute);max-width:52ch;margin:14px auto 0}.ctas{display:flex;gap:12px;flex-wrap:wrap;margin-top:26px;justify-content:center}
+.stage{position:relative;margin-top:50px}.wide,.stage .illu-wrap img{width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:6px}
+.appt{position:absolute;right:28px;bottom:-40px;background:var(--card);border-radius:22px;padding:24px 26px;text-align:left;box-shadow:0 24px 50px -24px rgba(0,0,0,.35);max-width:320px}.appt h3{font-size:1.05rem;margin-bottom:4px}.appt p{color:var(--mute);font-size:.9rem;margin-bottom:14px}.appt .b{width:100%;justify-content:center;padding:12px}
+section{padding:96px 0}.sh{max-width:620px;margin-bottom:40px}.sh h2{font-size:clamp(2rem,4.4vw,3.2rem);line-height:1.08}.sh p{color:var(--mute);margin-top:10px}
+.svs{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}.sv{background:var(--card);border-radius:22px;padding:28px;border:1px solid color-mix(in srgb,var(--ink) 8%,transparent)}.dot{width:46px;height:46px;border-radius:50%;background:var(--soft);color:var(--acc);display:grid;place-items:center;font-weight:800;margin-bottom:16px}.sv h3{font-size:1.1rem;margin-bottom:4px}.sv p{color:var(--mute);font-size:.94rem}
+.tlw{background:var(--soft)}.tlw .wrap{display:grid;grid-template-columns:.8fr 1.2fr;gap:50px}.tl{list-style:none;position:relative}.tl:before{content:"";position:absolute;left:21px;top:10px;bottom:10px;border-left:2px solid var(--acc2)}
+.tl li{display:flex;gap:22px;padding:0 0 30px;position:relative}.tl b{flex:none;width:44px;height:44px;border-radius:50%;background:var(--acc);color:#0e0f10;display:grid;place-items:center;z-index:1}.tl h3{font-size:1.15rem}.tl p{color:var(--mute)}
+.gal{display:grid;grid-auto-flow:column;grid-auto-columns:calc(25% - 12px);gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:8px}.gal figure{scroll-snap-align:start;border-radius:4px;overflow:hidden}.gal img{width:100%;aspect-ratio:4/5;object-fit:cover}
+.cp{background:var(--card);border-radius:30px;padding:44px;display:grid;grid-template-columns:1fr 1fr;gap:30px;align-items:center;border:1px solid color-mix(in srgb,var(--ink) 8%,transparent)}.kv div{display:flex;gap:14px;padding:12px 0;border-bottom:1px solid color-mix(in srgb,var(--ink) 10%,transparent)}.kv span{min-width:100px;color:var(--mute);font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.1em;padding-top:2px}
+footer{padding:30px 0 110px;color:var(--mute);font-size:.85rem}footer .wrap{display:flex;flex-wrap:wrap;gap:12px 28px;justify-content:space-between}
+.fab{position:fixed;right:18px;bottom:18px;width:58px;height:58px;border-radius:50%;background:#25D366;color:#fff;display:grid;place-items:center;z-index:9}.fab svg{width:28px}.mbar{display:none}
+@media(max-width:900px){.wide,.stage .illu-wrap img{aspect-ratio:4/3;border-radius:4px}.appt{position:relative;right:auto;bottom:auto;margin:-50px 14px 0;max-width:none}.svs{grid-template-columns:1fr}.tlw .wrap{grid-template-columns:1fr;gap:10px}
+.gal{grid-auto-columns:72%}.cp{grid-template-columns:1fr;padding:28px 22px}section{padding:64px 0}
+.fab{display:none}.mbar{display:grid;grid-template-columns:1fr 1fr;gap:10px;position:fixed;inset:auto 0 0;z-index:9;padding:10px 14px calc(10px + env(safe-area-inset-bottom));background:var(--bg);border-top:1px solid color-mix(in srgb,var(--ink) 10%,transparent)}.mbar .b{justify-content:center}}
+.meddisc{max-width:900px;margin:0 auto 18px;padding:0 22px;font-size:.8rem;opacity:.75;font-style:italic;text-align:center}.illu-wrap{position:relative;display:block}.illu{position:absolute;bottom:10px;left:10px;background:rgba(255,255,255,.88);color:#444;font:600 10px/1 system-ui,sans-serif;letter-spacing:.12em;text-transform:uppercase;padding:5px 8px;border-radius:3px}</style>
 </head>
 <body>
-<nav><div class="wrap">
- <a class="logo serif" href="#"><b>Beach Public Gym</b></a>
- <div class="links"><a href="#services">Services</a><a href="#why">Why us</a><a href="#how">How it works</a><a href="#contact">Contact</a></div>
- <a class="btn btn-wa nav-cta" href="https://wa.me/971504467150?text=Hi%20Beach%20Public%20Gym%2C%20I%27d%20like%20to%20ask%20about%20membership." target="_blank" rel="noopener">WhatsApp us</a>
-</div></nav>
-<header class="hero"><div class="wrap">
- <span class="eyebrow">Gym / Fitness · Umm Al Quwain <span class="ar" lang="ar" dir="rtl">· نادي رياضي</span></span>
- <h1 class="serif">Train with purpose in Umm Al Quwain.</h1>
- <p class="lead">Strength, cardio and guided training. Message us on WhatsApp to ask about memberships, classes and a visit.</p>
- <div class="ctas"><a class="btn btn-wa" href="https://wa.me/971504467150?text=Hi%20Beach%20Public%20Gym%2C%20I%27d%20like%20to%20ask%20about%20membership." target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.3-.5.1-1 .1-3.3-.8-2.8-1.1-4.5-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.3 2.4 1.5.3.1.5.1.6-.1l.9-1.1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.1.1.6-.1 1.2z"/></svg>Chat on WhatsApp</a><a class="btn btn-ghost" href="tel:+971504467150"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.9a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/></svg>Call +971 50 446 7150</a></div>
- <div class="chips"><span class="chip">Beach Public Gym</span><span class="chip">Umm Al Quwain</span><span class="chip">WhatsApp or phone</span></div>
-</div></header>
-<section id="services"><div class="wrap">
- <div class="sh"><div><div class="kicker">Services</div><h2 class="serif">What we offer</h2></div><p>Ask us on WhatsApp for the full list and current prices: [Your price list].</p></div>
- <div class="grid"><div class="card"><div class="ico">01</div><h3>Gym Floor</h3><p>Strength and cardio equipment.</p></div><div class="card"><div class="ico">02</div><h3>Personal Training</h3><p>One-to-one coaching on request.</p></div><div class="card"><div class="ico">03</div><h3>Group Classes</h3><p>Ask us for the current class timetable.</p></div><div class="card"><div class="ico">04</div><h3>Weight Loss</h3><p>Programmes to support your goals.</p></div><div class="card"><div class="ico">05</div><h3>Strength &amp; Conditioning</h3><p>Build strength safely.</p></div><div class="card"><div class="ico">06</div><h3>Memberships</h3><p>Ask for current options: [Your membership plans].</p></div></div>
-</div></section>
-<section id="why" class="alt"><div class="wrap">
- <div class="sh"><div><div class="kicker">Why choose us</div><h2 class="serif">Simple and easy to reach</h2></div></div>
- <div class="whys"><div class="why"><h3>Easy on WhatsApp</h3><p>Message us directly. No forms, no waiting on hold.</p></div><div class="why"><h3>Based in Umm Al Quwain</h3><p>Convenient for customers in Umm Al Quwain.</p></div><div class="why"><h3>Clear pricing</h3><p>Ask for current prices before you commit: [Your price list].</p></div><div class="why"><h3>[Your highlight]</h3><p>[A short line about what makes Beach Public Gym different.]</p></div></div>
-</div></section>
-<section id="how"><div class="wrap">
- <div class="sh"><div><div class="kicker">How it works</div><h2 class="serif">Three simple steps</h2></div></div>
- <div class="steps">
-  <div class="step"><h3>Message us</h3><p>Tap “Chat on WhatsApp” and tell us what you need.</p></div>
-  <div class="step"><h3>We reply</h3><p>We'll confirm availability, details and price with you.</p></div>
-  <div class="step"><h3>All set</h3><p>You get confirmation on WhatsApp. Need a change? Just message us.</p></div>
- </div>
-</div></section>
-<section id="contact" class="alt"><div class="wrap">
- <div class="sh"><div><div class="kicker">Location & contact</div><h2 class="serif">Find us in Umm Al Quwain</h2></div></div>
- <div class="loc">
-  <div class="map"><div><div class="pin"></div><strong>Umm Al Quwain</strong><br><span style="color:var(--muted);font-size:.9rem">[Full address]</span><br><br><a class="btn btn-ghost" style="padding:9px 18px;font-size:.85rem" href="https://maps.google.com/?cid=4031929254585629112" target="_blank" rel="noopener">Open in Google Maps</a></div></div>
-  <div class="contact">
-   <div class="row"><span>WhatsApp</span><a href="https://wa.me/971504467150?text=Hi%20Beach%20Public%20Gym%2C%20I%27d%20like%20to%20ask%20about%20membership." target="_blank" rel="noopener">+971 50 446 7150</a></div>
-   <div class="row"><span>Phone</span><a href="tel:+971504467150">+971 50 446 7150</a></div>
-   <div class="row"><span>Area</span><span>Umm Al Quwain, UAE</span></div>
-   <div class="row" style="border:0"><span>Opening hours</span><span>[Your opening hours]</span></div>
-  </div>
- </div>
-</div></section>
-<div class="cta-band"><div class="wrap">
- <h2 class="serif">Ready when you are.</h2>
- <p>Send us a message and we'll get back to you on WhatsApp.</p>
- <div class="ctas"><a class="btn btn-wa" href="https://wa.me/971504467150?text=Hi%20Beach%20Public%20Gym%2C%20I%27d%20like%20to%20ask%20about%20membership." target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.3-.5.1-1 .1-3.3-.8-2.8-1.1-4.5-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.3 2.4 1.5.3.1.5.1.6-.1l.9-1.1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.1.1.6-.1 1.2z"/></svg>Chat on WhatsApp</a><a class="btn btn-ghost" href="tel:+971504467150">Call now</a></div>
-</div></div>
-<footer><div class="wrap">
- <span>© Beach Public Gym · Umm Al Quwain</span>
- <span class="note">Preview concept prepared for Beach Public Gym — not affiliated with or endorsed by the business.</span>
-</div></footer>
-<a class="fab" href="https://wa.me/971504467150?text=Hi%20Beach%20Public%20Gym%2C%20I%27d%20like%20to%20ask%20about%20membership." target="_blank" rel="noopener" aria-label="WhatsApp"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.3-.5.1-1 .1-3.3-.8-2.8-1.1-4.5-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.3 2.4 1.5.3.1.5.1.6-.1l.9-1.1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.1.1.6-.1 1.2z"/></svg></a>
-<div class="mbar"><a class="btn btn-wa" href="https://wa.me/971504467150?text=Hi%20Beach%20Public%20Gym%2C%20I%27d%20like%20to%20ask%20about%20membership." target="_blank" rel="noopener">WhatsApp</a><a class="btn btn-ghost" href="tel:+971504467150">Call</a></div>
-</body>
-</html>
+<nav><div class="wrap"><a class="logo h" href="#">Beach Public Gym</a><a class="b b1" href="https://wa.me/971504467150?text=Hi%20Beach%20Public%20Gym%2C%20I%E2%80%99d%20like%20to%20ask%20about%20membership%20options%20and%20a%20visit." target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.3-.5.1-1 .1-3.3-.8-2.8-1.1-4.5-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.3 2.4 1.5.3.1.5.1.6-.1l.9-1.1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.1.1.6-.1 1.2z"/></svg>WhatsApp</a></div></nav>
+<header class="hero"><div class="wrap"><div class="ey">Gym &amp; fitness · Umm Al Quwain</div><h1 class="h">Train hard. <em>Feel strong.</em></h1><div class="ar" lang="ar" dir="rtl">قوّتك تبدأ هنا</div><p>A place to train, build strength and stay consistent in Umm Al Quwain. Message us on WhatsApp to ask about memberships and classes.</p>
+ <div class="ctas"><a class="b b1" href="https://wa.me/971504467150?text=Hi%20Beach%20Public%20Gym%2C%20I%E2%80%99d%20like%20to%20ask%20about%20membership%20options%20and%20a%20visit." target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.3-.5.1-1 .1-3.3-.8-2.8-1.1-4.5-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.3 2.4 1.5.3.1.5.1.6-.1l.9-1.1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.1.1.6-.1 1.2z"/></svg>Ask about memberships</a><a class="b b2" href="tel:+971504467150"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.9a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/></svg>Call +971 50 446 7150</a></div>
+ <div class="stage"><img class="wide" src="img/hero.webp" alt="Photo of Beach Public Gym, Umm Al Quwain" width="1200" height="600" fetchpriority="high"><div class="appt"><h3>Ask about memberships</h3><p>Message us on WhatsApp and we’ll reply with available times.</p><a class="b b1" href="https://wa.me/971504467150?text=Hi%20Beach%20Public%20Gym%2C%20I%E2%80%99d%20like%20to%20ask%20about%20membership%20options%20and%20a%20visit." target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.3-.5.1-1 .1-3.3-.8-2.8-1.1-4.5-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.3 2.4 1.5.3.1.5.1.6-.1l.9-1.1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.1.1.6-.1 1.2z"/></svg>WhatsApp us</a></div></div></div></header>
+<section id="services" style="padding-top:110px"><div class="wrap"><div class="sh"><div class="ey">Training · <span class="ar" lang="ar" dir="rtl">التدريب</span></div><h2 class="h">Ways to train</h2><p>Please message us to confirm what’s currently offered and to check availability.</p></div><div class="svs"><div class="sv"><div class="dot">01</div><h3>Strength training</h3><p>Free weights and machines.</p></div><div class="sv"><div class="dot">02</div><h3>Cardio</h3><p>Treadmills, bikes and more.</p></div><div class="sv"><div class="dot">03</div><h3>Personal training</h3><p>Ask about one-to-one coaching.</p></div><div class="sv"><div class="dot">04</div><h3>Classes</h3><p>Ask about group sessions.</p></div><div class="sv"><div class="dot">05</div><h3>Flexible timings</h3><p>Ask about session times that suit you.</p></div><div class="sv"><div class="dot">06</div><h3>Memberships</h3><p>Ask about plans that fit you.</p></div></div></div></section>
+<section class="tlw"><div class="wrap"><div class="sh"><div class="ey">Getting started</div><h2 class="h">Your first steps</h2></div><ol class="tl"><li><b>1</b><div><h3>Say hello</h3><p>Message us on WhatsApp with your goals.</p></div></li><li><b>2</b><div><h3>Visit the gym</h3><p>Come by to see the space and ask about memberships.</p></div></li><li><b>3</b><div><h3>Start training</h3><p>Pick the plan that suits you and get going.</p></div></li></ol></div></section>
+<section id="gallery"><div class="wrap"><div class="sh"><div class="ey">Gallery</div><h2 class="h">Inside Beach Public Gym</h2></div><div class="gal"><figure><img class="" src="img/g1.webp" alt="Photo of Beach Public Gym, Umm Al Quwain" width="720" height="900" loading="lazy"></figure><figure><img class="" src="img/g2.webp" alt="Photo of Beach Public Gym, Umm Al Quwain" width="720" height="900" loading="lazy"></figure></div></div></section>
+<section id="contact" style="padding-top:0"><div class="wrap"><div class="cp"><div><div class="ey">Contact · <span class="ar" lang="ar" dir="rtl">تواصل معنا</span></div><h2 class="h" style="font-size:clamp(1.9rem,4vw,2.7rem);margin:8px 0 6px">Find us in Umm Al Quwain</h2><p style="color:var(--mute)">Message us to check today’s timings.</p>
+ <div class="ctas" style="justify-content:flex-start"><a class="b b1" href="https://maps.google.com/?cid=4031929254585629112" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12z"/><circle cx="12" cy="10" r="2.6"/></svg>Open in Google Maps</a></div></div>
+ <div class="kv"><div><span>WhatsApp</span><a href="https://wa.me/971504467150?text=Hi%20Beach%20Public%20Gym%2C%20I%E2%80%99d%20like%20to%20ask%20about%20membership%20options%20and%20a%20visit." target="_blank" rel="noopener">+971 50 446 7150</a></div><div><span>Phone</span><a href="tel:+971504467150">+971 50 446 7150</a></div><div><span>Area</span>Umm Al Quwain, UAE</div></div></div></div></section>
+<footer><div class="wrap"><span>© Beach Public Gym · Umm Al Quwain, UAE</span><span>Photos from the business’s public Google Maps listing.</span><span><i>Preview concept prepared for Beach Public Gym — not affiliated with or endorsed by the business.</i></span></div></footer>
+<a class="fab" href="https://wa.me/971504467150?text=Hi%20Beach%20Public%20Gym%2C%20I%E2%80%99d%20like%20to%20ask%20about%20membership%20options%20and%20a%20visit." target="_blank" rel="noopener" aria-label="WhatsApp"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.3-.5.1-1 .1-3.3-.8-2.8-1.1-4.5-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.3 2.4 1.5.3.1.5.1.6-.1l.9-1.1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.1.1.6-.1 1.2z"/></svg></a>
+<div class="mbar"><a class="b b1" href="https://wa.me/971504467150?text=Hi%20Beach%20Public%20Gym%2C%20I%E2%80%99d%20like%20to%20ask%20about%20membership%20options%20and%20a%20visit." target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.3-.5.1-1 .1-3.3-.8-2.8-1.1-4.5-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.3 2.4 1.5.3.1.5.1.6-.1l.9-1.1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.1.1.6-.1 1.2z"/></svg>WhatsApp</a><a class="b b2" href="tel:+971504467150"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.9a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/></svg>Call</a></div>
+</body></html>

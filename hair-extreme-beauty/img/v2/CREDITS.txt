@@ -1,0 +1,6 @@
+Image credits for Hair Extreme Beauty Salon preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/10605238/ | free-licence stock (per teammate images_log.tsv)
+img/v2/side.webp [stock] https://www.pexels.com/photo/7750126/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g1.webp [stock] https://www.pexels.com/photo/4974566/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g2.webp [stock] https://www.pexels.com/photo/4974568/ | free-licence stock (per teammate images_log.tsv)

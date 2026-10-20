@@ -1,0 +1,7 @@
+Image credits for Dxbshoppinguae preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/20390730/ | free-licence stock (per teammate images_log.tsv)
+img/v2/p1.webp [stock] https://www.pexels.com/photo/11216292/ | free-licence stock (per teammate images_log.tsv)
+img/v2/p2.webp [stock] https://www.pexels.com/photo/33711970/ | free-licence stock (per teammate images_log.tsv)
+img/v2/p3.webp [stock] https://www.pexels.com/photo/33711971/ | free-licence stock (per teammate images_log.tsv)
+img/v2/store.webp [stock] https://www.pexels.com/photo/33711971/ | free-licence stock (per teammate images_log.tsv)

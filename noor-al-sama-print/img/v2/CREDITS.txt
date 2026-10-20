@@ -1,0 +1,6 @@
+Image credits for Noor Al Sama Printing Center preview page
+
+img/v2/h1.webp [real] https://images.bestthings.ae/original/mrkz-nwr-lsm-lltb-1546563.webp | business public listing/website
+img/v2/h2.webp [real] https://images.bestthings.ae/original/mrkz-nwr-lsm-lltb-1546564.webp | business public listing/website
+img/v2/h3.webp [stock] https://www.pexels.com/photo/20762578/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/10346738/ | free-licence stock (per teammate images_log.tsv)

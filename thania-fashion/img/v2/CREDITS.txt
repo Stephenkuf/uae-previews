@@ -1,0 +1,7 @@
+Image credits for Thania Fashion preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/37884300/ | free-licence stock (per teammate images_log.tsv)
+img/v2/p1.webp [stock] https://www.pexels.com/photo/37884304/ | free-licence stock (per teammate images_log.tsv)
+img/v2/p2.webp [stock] https://www.pexels.com/photo/7641315/ | free-licence stock (per teammate images_log.tsv)
+img/v2/p3.webp [stock] https://www.pexels.com/photo/7641303/ | free-licence stock (per teammate images_log.tsv)
+img/v2/store.webp [stock] https://www.pexels.com/photo/7641303/ | free-licence stock (per teammate images_log.tsv)

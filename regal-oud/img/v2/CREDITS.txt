@@ -1,0 +1,6 @@
+Image credits for Regal Oud preview page
+
+img/v2/h1.webp [real] https://images.bestthings.ae/original/ryjl-wd-regal-oud-abu-dhabi-482172.webp | business public listing/website
+img/v2/h2.webp [stock] https://www.pexels.com/photo/20390730/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/8903264/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/8903266/ | free-licence stock (per teammate images_log.tsv)

@@ -1,0 +1,6 @@
+Image credits for Al Ahram Studio preview page
+
+img/v2/h1.webp [real] https://images.bestthings.ae/original/al-ahram-studio-1546379.webp | business public listing/website
+img/v2/h2.webp [stock] https://www.pexels.com/photo/7143709/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/20762578/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/10346738/ | free-licence stock (per teammate images_log.tsv)

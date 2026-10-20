@@ -1,0 +1,6 @@
+Image credits for CXORS Gents Center preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/20785317/ | free-licence stock (per teammate images_log.tsv)
+img/v2/side.webp [stock] https://www.pexels.com/photo/20785313/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g1.webp [stock] https://www.pexels.com/photo/20785314/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g2.webp [stock] https://www.pexels.com/photo/20785318/ | free-licence stock (per teammate images_log.tsv)

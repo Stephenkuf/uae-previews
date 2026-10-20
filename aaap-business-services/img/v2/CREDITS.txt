@@ -1,0 +1,6 @@
+Image credits for AAAP Business Services FZE preview page
+
+img/v2/h1.webp [stock] https://www.pexels.com/photo/7310015/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h2.webp [stock] https://www.pexels.com/photo/29004248/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/7545311/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/18687845/ | free-licence stock (per teammate images_log.tsv)

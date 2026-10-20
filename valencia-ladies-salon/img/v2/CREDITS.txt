@@ -1,0 +1,6 @@
+Image credits for Valencia Ladies Salon LLC preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/17870165/ | free-licence stock (per teammate images_log.tsv)
+img/v2/side.webp [stock] https://www.pexels.com/photo/7823407/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g1.webp [stock] https://www.pexels.com/photo/10605238/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g2.webp [stock] https://www.pexels.com/photo/7256113/ | free-licence stock (per teammate images_log.tsv)

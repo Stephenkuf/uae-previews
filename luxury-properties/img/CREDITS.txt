@@ -1,0 +1,5 @@
+Image credits for Luxury Properties preview page
+
+img/h1.webp [real] https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RG6uWpQ6kftJ0PJmaiUl2-x4k3P_igU0BkvEsjWlQC3mGZ66rhw21UFn9ALyPzZu6gT6ATpnyrlkLEkyQcQMIwYwUdOLSLciL8iCUzl5PP2G8K40F_3ncwNTwFB0TRGoN3Fi1B_ZFCCJG7 | photo from the business's public Google Maps listing (https://maps.google.com/?cid=5150270784293526920)
+img/h2.webp [stock] https://stocksnap.io/photo/living-room-BI0P6D3WL9 | Living Room | Dan Gold | CC0 1.0 | via Openverse (stocksnap)
+img/h3.webp [stock] https://www.flickr.com/photos/199142027@N02/53190038724 | Dubai skyline by dubainewsweek.com | metanveermalik | CC0 1.0 | via Openverse (flickr)

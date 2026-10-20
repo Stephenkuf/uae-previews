@@ -1,0 +1,6 @@
+Image credits for Pawfessor Pets Grooming preview page
+
+img/v2/h1.webp [stock] https://www.pexels.com/photo/6816837/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h2.webp [stock] https://www.pexels.com/photo/19145886/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/19145885/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/6816840/ | free-licence stock (per teammate images_log.tsv)

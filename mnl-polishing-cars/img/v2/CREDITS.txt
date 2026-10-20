@@ -1,0 +1,6 @@
+Image credits for MNL Polishing Cars preview page
+
+img/v2/hero.webp [real] https://images.bestthings.ae/original/mnl-polishing-cars-1625866.webp | business public listing/website
+img/v2/s1.webp [real] https://images.bestthings.ae/original/mnl-polishing-cars-1625865.webp | business public listing/website
+img/v2/s2.webp [real] https://images.bestthings.ae/original/mnl-polishing-cars-1625867.webp | business public listing/website
+img/v2/s3.webp [stock] https://www.pexels.com/photo/6873011/ | free-licence stock (per teammate images_log.tsv)

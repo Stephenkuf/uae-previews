@@ -1,0 +1,6 @@
+Image credits for Nayana Spa preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/6724318/ | free-licence stock (per teammate images_log.tsv)
+img/v2/side.webp [stock] https://www.pexels.com/photo/30681927/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g1.webp [stock] https://www.pexels.com/photo/30681928/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g2.webp [stock] https://www.pexels.com/photo/30681930/ | free-licence stock (per teammate images_log.tsv)

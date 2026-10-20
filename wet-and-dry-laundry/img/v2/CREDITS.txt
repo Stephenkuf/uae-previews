@@ -1,0 +1,6 @@
+Image credits for Wet & Dry Laundry preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/8774520/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w1.webp [stock] https://www.pexels.com/photo/8774512/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w2.webp [stock] https://www.pexels.com/photo/8774517/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w3.webp [stock] https://www.pexels.com/photo/8774555/ | free-licence stock (per teammate images_log.tsv)

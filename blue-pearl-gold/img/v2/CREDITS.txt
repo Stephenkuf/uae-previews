@@ -1,0 +1,6 @@
+Image credits for Blue Pearl Gold Repair Al Ain preview page
+
+img/v2/h1.webp [real] https://bluepearlgoldanddiamonds.com/wp-content/uploads/2025/06/pexels-the-glorious-studio-3584518-10983780-scaled.jpg | business public listing/website
+img/v2/h2.webp [stock] https://www.pexels.com/photo/28146841/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/7314470/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/7314469/ | free-licence stock (per teammate images_log.tsv)

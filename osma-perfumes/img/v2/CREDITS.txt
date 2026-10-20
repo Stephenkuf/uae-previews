@@ -1,0 +1,6 @@
+Image credits for Osma perfumes preview page
+
+img/v2/h1.webp [real] https://cdn.files.salla.network/homepage/465941588/b8c16ce9-2ba9-4b18-ae00-9186137ce44f-original.webp | business public listing/website
+img/v2/h2.webp [real] https://cdn.files.salla.network/categories/465941588/ee970570-0c8f-4ee1-983b-8af222e35f8d-original.webp | business public listing/website
+img/v2/h3.webp [real] https://cdn.files.salla.network/homepage/465941588/b0ba3249-4077-4347-a9ff-3b595d3af9c8-original.webp | business public listing/website
+img/v2/f1.webp [stock] https://www.pexels.com/photo/8903266/ | free-licence stock (per teammate images_log.tsv)

@@ -1,0 +1,6 @@
+Image credits for Sultan Alkuwaiti Al Ain Home preview page
+
+img/v2/h1.webp [stock] https://www.pexels.com/photo/28456460/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h2.webp [stock] https://www.pexels.com/photo/19899067/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/28518249/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/28456455/ | free-licence stock (per teammate images_log.tsv)

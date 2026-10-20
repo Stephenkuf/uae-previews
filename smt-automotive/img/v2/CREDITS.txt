@@ -1,0 +1,6 @@
+Image credits for SMT Automotive preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/5463581/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s1.webp [stock] https://www.pexels.com/photo/5463584/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/5463587/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/5463575/ | free-licence stock (per teammate images_log.tsv)

@@ -1,0 +1,6 @@
+Image credits for Pine Tours preview page
+
+img/v2/h1.webp [stock] https://www.pexels.com/photo/29104549/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h2.webp [stock] https://www.pexels.com/photo/2149903/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/2149904/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/29104548/ | free-licence stock (per teammate images_log.tsv)

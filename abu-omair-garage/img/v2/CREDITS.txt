@@ -1,0 +1,6 @@
+Image credits for Abu Omair Garage Auto Repair Shop preview page
+
+img/v2/hero.webp [real] https://images.bestthings.ae/original/abu-omair-garage-auto-repair-shop-333235.webp | business public listing/website
+img/v2/s1.webp [real] https://images.bestthings.ae/original/abu-omair-garage-auto-repair-shop-333236.webp | business public listing/website
+img/v2/s2.webp [real] https://images.bestthings.ae/original/abu-omair-garage-auto-repair-shop-333237.webp | business public listing/website
+img/v2/s3.webp [stock] https://www.pexels.com/photo/8985452/ | free-licence stock (per teammate images_log.tsv)

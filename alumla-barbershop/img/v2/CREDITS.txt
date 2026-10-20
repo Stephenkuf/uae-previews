@@ -1,0 +1,6 @@
+Image credits for Alumla Barbershop preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/20785318/ | free-licence stock (per teammate images_log.tsv)
+img/v2/side.webp [stock] https://www.pexels.com/photo/7697712/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g1.webp [stock] https://www.pexels.com/photo/7697717/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g2.webp [stock] https://www.pexels.com/photo/9456810/ | free-licence stock (per teammate images_log.tsv)

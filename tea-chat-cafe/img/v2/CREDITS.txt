@@ -1,0 +1,6 @@
+Image credits for Tea & Chat cafe preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/33371820/ | free-licence stock (per teammate images_log.tsv)
+img/v2/c1.webp [stock] https://www.pexels.com/photo/19561078/ | free-licence stock (per teammate images_log.tsv)
+img/v2/c2.webp [stock] https://www.pexels.com/photo/19561080/ | free-licence stock (per teammate images_log.tsv)
+img/v2/c3.webp [stock] https://www.pexels.com/photo/19561081/ | free-licence stock (per teammate images_log.tsv)

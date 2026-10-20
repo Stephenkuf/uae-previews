@@ -1,0 +1,6 @@
+Image credits for Al Hajis Auto Repair Garage preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/8985461/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s1.webp [stock] https://www.pexels.com/photo/8985451/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/8985452/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/8985454/ | free-licence stock (per teammate images_log.tsv)

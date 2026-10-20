@@ -1,0 +1,6 @@
+Image credits for White House Laundry-1 preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/8774514/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w1.webp [stock] https://www.pexels.com/photo/8774555/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w2.webp [stock] https://www.pexels.com/photo/8774365/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w3.webp [stock] https://www.pexels.com/photo/8774363/ | free-licence stock (per teammate images_log.tsv)

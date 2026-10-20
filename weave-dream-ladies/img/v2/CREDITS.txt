@@ -1,0 +1,6 @@
+Image credits for Weave Dream Ladies Tailoring preview page
+
+img/v2/h1.webp [stock] https://www.pexels.com/photo/5830633/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h2.webp [stock] https://www.pexels.com/photo/7147611/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/7147612/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/11911808/ | free-licence stock (per teammate images_log.tsv)

@@ -1,0 +1,6 @@
+Image credits for Elite Car Wash preview page
+
+img/v2/hero.webp [real] https://images.bestthings.ae/original/elite-car-wash-ylyt-lgsyl-lsyrt-1572877.webp | business public listing/website
+img/v2/s1.webp [real] https://images.bestthings.ae/original/elite-car-wash-ylyt-lgsyl-lsyrt-1572878.webp | business public listing/website
+img/v2/s2.webp [real] https://images.bestthings.ae/original/elite-car-wash-ylyt-lgsyl-lsyrt-1572879.webp | business public listing/website
+img/v2/s3.webp [stock] https://www.pexels.com/photo/14615258/ | free-licence stock (per teammate images_log.tsv)

@@ -1,0 +1,6 @@
+Image credits for Al Ara Gifts and Flowers preview page
+
+img/v2/h1.webp [real] https://images.bestthings.ae/original/al-ara-gifts-and-flowers-shop-lar-llhdy-w-lzhwr-1446451.webp | business public listing/website
+img/v2/h2.webp [real] https://images.bestthings.ae/original/al-ara-gifts-and-flowers-shop-lar-llhdy-w-lzhwr-1446447.webp | business public listing/website
+img/v2/h3.webp [real] https://images.bestthings.ae/original/al-ara-gifts-and-flowers-shop-lar-llhdy-w-lzhwr-1446448.webp | business public listing/website
+img/v2/f1.webp [stock] https://www.pexels.com/photo/15290976/ | free-licence stock (per teammate images_log.tsv)

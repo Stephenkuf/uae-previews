@@ -1,0 +1,5 @@
+Image credits for Instructor Rizwan preview page
+
+img/hero.webp [real] https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RSrmTCYaJNXCHZOV8JcheD6Kk3lRfVTaych9I7RzAvBWZW8kpIY6mMrYVSF3xAvorWFvE4T14VeTmPQqFQrgqyzgBPQmweyhVyjMdy28dbAFgr-LPu_zK2W1hTIR5jkbfstY4o | photo from the business's public Google Maps listing (https://maps.google.com/?cid=820200201256299574)
+img/s1.webp [stock] https://stocksnap.io/photo/road-highway-66X7POV7YQ | Road Highway | Kaique Rocha | CC0 1.0 | via Openverse (stocksnap)
+img/s2.webp [stock] https://stocksnap.io/photo/road-highway-GW8GYBILGU | Road Highway | Anders%20Jild%E9n | CC0 1.0 | via Openverse (stocksnap)

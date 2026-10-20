@@ -1,0 +1,6 @@
+Image credits for Jay Printing Services preview page
+
+img/v2/h1.webp [stock] https://www.pexels.com/photo/6620969/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h2.webp [stock] https://www.pexels.com/photo/6620993/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/6620968/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/6620990/ | free-licence stock (per teammate images_log.tsv)

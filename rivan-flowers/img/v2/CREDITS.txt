@@ -1,0 +1,6 @@
+Image credits for Rivan flowers & Gifts preview page
+
+img/v2/h1.webp [real] https://images.bestthings.ae/original/rivan-flowers-gifts-ryfn-llzhwr-w-lhdy-1447219.webp | business public listing/website
+img/v2/h2.webp [real] https://images.bestthings.ae/original/rivan-flowers-gifts-ryfn-llzhwr-w-lhdy-1447220.webp | business public listing/website
+img/v2/h3.webp [real] https://images.bestthings.ae/original/rivan-flowers-gifts-ryfn-llzhwr-w-lhdy-1447221.webp | business public listing/website
+img/v2/f1.webp [stock] https://www.pexels.com/photo/15290972/ | free-licence stock (per teammate images_log.tsv)

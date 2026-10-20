@@ -1,0 +1,6 @@
+Image credits for Top Pro Auto Care preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/8985451/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s1.webp [stock] https://www.pexels.com/photo/8985458/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/8985461/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/8985462/ | free-licence stock (per teammate images_log.tsv)

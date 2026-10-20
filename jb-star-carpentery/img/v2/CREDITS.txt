@@ -1,0 +1,6 @@
+Image credits for Jb Star Carpentery preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/6790036/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w1.webp [stock] https://www.pexels.com/photo/6790034/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w2.webp [stock] https://www.pexels.com/photo/6790045/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w3.webp [stock] https://www.pexels.com/photo/6790823/ | free-licence stock (per teammate images_log.tsv)

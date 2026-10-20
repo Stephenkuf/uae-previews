@@ -1,0 +1,6 @@
+Image credits for Cure Hub Medical Center Dubai preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/5619462/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g1.webp [stock] https://www.pexels.com/photo/5619496/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g2.webp [stock] https://www.pexels.com/photo/5619460/ | free-licence stock (per teammate images_log.tsv)
+img/v2/g3.webp [stock] https://www.pexels.com/photo/5619463/ | free-licence stock (per teammate images_log.tsv)

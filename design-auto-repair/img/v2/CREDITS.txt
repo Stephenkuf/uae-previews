@@ -1,0 +1,6 @@
+Image credits for Design Auto Repair Workshop preview page
+
+img/v2/hero.webp [real] https://images.bestthings.ae/original/design-auto-repair-workshop-llc-1615180.webp | business public listing/website
+img/v2/s1.webp [stock] https://www.pexels.com/photo/8986040/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/8986035/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/8986036/ | free-licence stock (per teammate images_log.tsv)

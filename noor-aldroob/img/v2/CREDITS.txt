@@ -1,0 +1,6 @@
+Image credits for NOOR Aldroob Technical Services LLC preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/28456458/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w1.webp [stock] https://www.pexels.com/photo/12277016/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w2.webp [stock] https://www.pexels.com/photo/7601066/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w3.webp [stock] https://www.pexels.com/photo/7601068/ | free-licence stock (per teammate images_log.tsv)

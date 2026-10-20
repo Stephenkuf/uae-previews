@@ -1,0 +1,6 @@
+Image credits for Better Choice Auto Repair Workshop preview page
+
+img/v2/hero.webp [real] https://images.bestthings.ae/original/better-choice-565462.webp | business public listing/website
+img/v2/s1.webp [real] https://images.bestthings.ae/original/better-choice-565463.webp | business public listing/website
+img/v2/s2.webp [stock] https://www.pexels.com/photo/10490623/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/33814734/ | free-licence stock (per teammate images_log.tsv)

@@ -1,0 +1,6 @@
+Image credits for AC & Appliance Repair Dubai preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/32497161/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w1.webp [stock] https://www.pexels.com/photo/5463581/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w2.webp [stock] https://www.pexels.com/photo/5463584/ | free-licence stock (per teammate images_log.tsv)
+img/v2/w3.webp [stock] https://www.pexels.com/photo/5463587/ | free-licence stock (per teammate images_log.tsv)

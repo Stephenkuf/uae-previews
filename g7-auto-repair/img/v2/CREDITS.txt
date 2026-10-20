@@ -1,0 +1,6 @@
+Image credits for G7 Auto repair garage preview page
+
+img/v2/hero.webp [real] https://images.bestthings.ae/original/g7-auto-repair-garage-1573048.webp | business public listing/website
+img/v2/s1.webp [stock] https://www.pexels.com/photo/10490623/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/33814734/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/8986044/ | free-licence stock (per teammate images_log.tsv)

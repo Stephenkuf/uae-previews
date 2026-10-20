@@ -1,0 +1,6 @@
+Image credits for Al Bayan Auto Spa preview page
+
+img/v2/hero.webp [real] https://images.bestthings.ae/original/al-bayan-auto-spa-1572871.webp | business public listing/website
+img/v2/s1.webp [stock] https://www.pexels.com/photo/14615264/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/5233258/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/5233259/ | free-licence stock (per teammate images_log.tsv)

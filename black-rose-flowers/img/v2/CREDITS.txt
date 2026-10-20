@@ -1,0 +1,6 @@
+Image credits for Black Rose Flower Trading preview page
+
+img/v2/h1.webp [stock] https://www.pexels.com/photo/2014698/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h2.webp [stock] https://www.pexels.com/photo/17223382/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/37639104/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/31583563/ | free-licence stock (per teammate images_log.tsv)

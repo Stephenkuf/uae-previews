@@ -1,0 +1,6 @@
+Image credits for sahibaevent preview page
+
+img/v2/h1.webp [stock] https://www.pexels.com/photo/28179592/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h2.webp [stock] https://www.pexels.com/photo/28179595/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/28179596/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/7221143/ | free-licence stock (per teammate images_log.tsv)

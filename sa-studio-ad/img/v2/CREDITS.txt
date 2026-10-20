@@ -1,0 +1,6 @@
+Image credits for S A Studio preview page
+
+img/v2/h1.webp [real] https://images.bestthings.ae/original/s-a-studio-abu-dhabi-662002.webp | business public listing/website
+img/v2/h2.webp [real] https://images.bestthings.ae/original/s-a-studio-abu-dhabi-662003.webp | business public listing/website
+img/v2/h3.webp [real] https://images.bestthings.ae/original/s-a-studio-abu-dhabi-662004.webp | business public listing/website
+img/v2/f1.webp [stock] https://www.pexels.com/photo/25526512/ | free-licence stock (per teammate images_log.tsv)

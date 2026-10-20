@@ -1,0 +1,6 @@
+Image credits for Joli Tir Studio preview page
+
+img/v2/h1.webp [real] https://jolitir.site/wp-content/uploads/2026/09/Frame-44192-1.png | business public listing/website
+img/v2/h2.webp [stock] https://www.pexels.com/photo/7143708/ | free-licence stock (per teammate images_log.tsv)
+img/v2/h3.webp [stock] https://www.pexels.com/photo/7143709/ | free-licence stock (per teammate images_log.tsv)
+img/v2/f1.webp [stock] https://www.pexels.com/photo/7143711/ | free-licence stock (per teammate images_log.tsv)

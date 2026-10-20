@@ -1,0 +1,6 @@
+Image credits for Al Daam AlTiqani Auto Repair Workshop preview page
+
+img/v2/hero.webp [stock] https://www.pexels.com/photo/8985461/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s1.webp [stock] https://www.pexels.com/photo/10490623/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s2.webp [stock] https://www.pexels.com/photo/33814734/ | free-licence stock (per teammate images_log.tsv)
+img/v2/s3.webp [stock] https://www.pexels.com/photo/8986044/ | free-licence stock (per teammate images_log.tsv)

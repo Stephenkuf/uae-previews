@@ -1,0 +1,5 @@
+Image credits for Hazara Driving School (HDS) preview page
+
+img/hero.webp [real] https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SxcNu4ls0uBX9EkRr61i8xLaIC2HR35_p70M5jYOqAxMtY2wrnCWA45FtqdXDF-I_uXchf098Jf2DH104YxBsNGZKEf-nJBbpAx2HlFp8vFFAMwKytlS8Lf7Og3bEjm1qpJX51 | photo from the business's public Google Maps listing (https://maps.google.com/?cid=3050960376154260314)
+img/s1.webp [stock] https://stocksnap.io/photo/car-black-UHHHIZ6UGO | Car Black | Mike Birdy | CC0 1.0 | via Openverse (stocksnap)
+img/s2.webp [stock] https://stocksnap.io/photo/car-vehicle-OYLXO1QZ5K | Car Vehicle | Mike Birdy | CC0 1.0 | via Openverse (stocksnap)
